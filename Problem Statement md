@@ -1,0 +1,8 @@
+Problem Statement 
+Exercise 3
+Write a PL/SQL programme to receive the employee hourly worked and hours rate. 
+The program then calculates and displays the employee gross salary, tax payable and the net salary. 
+The employee receives regular rate for the first 40 hours, a time and a half for each hour more than
+40 hours and twice or double the regular rate for each hour over 50 hours. 
+
+ 
